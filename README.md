@@ -4,7 +4,7 @@
 * [POSTMAIN](https://www.postman.com/downloads/)
 ## 課程目錄
 + Ch1 安裝設定環境與Web前端基礎
-  [ch1 Error Code]
+  + [ch1 Error Code]
 + Ch2
    + [Ch2_1與 Ch2_2 HTML與css]
    + [Ch2_3 Servelt建立 Request等資訊]
