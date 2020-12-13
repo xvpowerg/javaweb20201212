@@ -6,7 +6,7 @@
 + Ch1 安裝設定環境與Web前端基礎
   + [ch1 Error Code]
 + Ch2
-   + [Ch2_1與 Ch2_2 HTML與css]
+   + [Ch2_1與 Ch2_2 HTML與css](https://github.com/xvpowerg/javaweb20201212/blob/main/20201212/Ch2_1/src/tw/com/web/Test1Servlet.java)
    + [Ch2_3 Servelt建立 Request等資訊]
 + Ch3
    + [Ch3_1_webxml建立servlet]
