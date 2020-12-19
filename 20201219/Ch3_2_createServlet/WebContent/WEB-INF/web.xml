@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+    <!--定義一組Servlet類別對應的名稱  -->
+   <servlet>
+   	<servlet-name>Page2</servlet-name>
+   	<servlet-class>tw.com.web.Page2Servlet</servlet-class>
+   </servlet>
+
+<!-- 
+servlet-mapping的 servlet-name 對應到 servlet 的 servlet-name
+ -->
+  <servlet-mapping>
+  		<servlet-name>Page2</servlet-name>
+  		<url-pattern>/mypage2</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+  		<servlet-name>Page2</servlet-name>
+  		<url-pattern>/mypage2.php</url-pattern>
+  </servlet-mapping>
+</web-app>
