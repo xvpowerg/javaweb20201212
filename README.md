@@ -4,7 +4,7 @@
 * [POSTMAIN](https://www.postman.com/downloads/)
 ## 課程目錄
 + Ch1 安裝設定環境與Web前端基礎
-  + [ch1 Error Code]
+  + [ch1 Error Code](https://github.com/xvpowerg/javaweb20201212/blob/main/errorcode.md)
 + Ch2
    + [Ch2_1與 Ch2_2 HTML與css](https://github.com/xvpowerg/javaweb20201212/blob/main/20201212/Ch2_1/WebContent/index.html)
    + [Ch2_3 Servelt建立 Request等資訊]
