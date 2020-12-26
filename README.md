@@ -19,6 +19,7 @@
 + Ch6
    + [Ch6_1_forword_page](https://github.com/xvpowerg/javaweb20201212/tree/main/20201226/Ch6_1_forword_page)
    + [Ch6_2_Homework](https://github.com/xvpowerg/javaweb20201212/tree/main/20201226/Ch6_2_Homework)
+   + [三大區塊可以存Attribute](https://github.com/xvpowerg/javaweb20201212/tree/main/20201226/Ch6_1_forword_page)
 + Ch7
    + [Ch7_1_test_cookie_login 實作cookie登入]
    + [Ch7_2_test_jsp Jsp基礎]
