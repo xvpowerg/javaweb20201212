@@ -13,11 +13,12 @@
 + Ch4
   + [Ch4_1 get練習](https://github.com/xvpowerg/javaweb20201212/blob/main/20201219/Ch4_1_Get/src/tw/com/web/TestGetServlet.java)
 + Ch5
-  + [Ch5_1_checkbox name相同的fomr data]
-  + [Ch5_2_TestSession 測試Session]
+  + [Ch5_1 GeHomeWork](https://github.com/xvpowerg/javaweb20201212/tree/main/20201226/Ch5_1_GetHomeWork)
+  + [CH5_2 GetVsPost](https://github.com/xvpowerg/javaweb20201212/tree/main/20201226/Ch5_2_GetVsPost)
+  + [Ch5_3_checkbox](https://github.com/xvpowerg/javaweb20201212/tree/main/20201226/Ch5_3_CheckBox)
 + Ch6
-   + [Ch6_1_HomeWork 簡易購物車]
-   + [Ch6_2_了解cookie]
+   + [Ch6_1_forword_page](https://github.com/xvpowerg/javaweb20201212/tree/main/20201226/Ch6_1_forword_page)
+   + [Ch6_2_Homework](https://github.com/xvpowerg/javaweb20201212/tree/main/20201226/Ch6_2_Homework)
 + Ch7
    + [Ch7_1_test_cookie_login 實作cookie登入]
    + [Ch7_2_test_jsp Jsp基礎]
