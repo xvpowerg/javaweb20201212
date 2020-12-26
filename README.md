@@ -7,13 +7,11 @@
   + [ch1 Error Code](https://github.com/xvpowerg/javaweb20201212/blob/main/errorcode.md)
 + Ch2
    + [Ch2_1與 Ch2_2 HTML與css](https://github.com/xvpowerg/javaweb20201212/blob/main/20201212/Ch2_1/WebContent/index.html)
-   + [Ch2_3 Servelt建立 Request等資訊]
 + Ch3
-   + [Ch3_1_webxml建立servlet]
-   + [Ch3_2_test_get]
-   + [Ch3_3練習GET]
+   + [Ch3_1_HTML2](https://github.com/xvpowerg/javaweb20201212/tree/main/20201219/Ch3_1_HTML2)
+   + [Ch3_2_web建立Servlet.xml](https://github.com/xvpowerg/javaweb20201212/tree/main/20201219/Ch3_2_createServlet)
 + Ch4
-  + [Ch4_1使用Post,Get做登入差異 與顯示中文]
+  + [Ch4_1 get練習](https://github.com/xvpowerg/javaweb20201212/blob/main/20201219/Ch4_1_Get/src/tw/com/web/TestGetServlet.java)
 + Ch5
   + [Ch5_1_checkbox name相同的fomr data]
   + [Ch5_2_TestSession 測試Session]
