@@ -21,14 +21,11 @@
    + [Ch6_2_Homework](https://github.com/xvpowerg/javaweb20201212/tree/main/20201226/Ch6_2_Homework)
    + [三大區塊可以存Attribute](https://github.com/xvpowerg/javaweb20201212/tree/main/20201226/Ch6_1_forword_page)
 + Ch7
-   + [Ch7_1_test_cookie_login 實作cookie登入]
-   + [Ch7_2_test_jsp Jsp基礎]
-   + [Ch7_3_ServletLivecycle Servlet生命週期]
+   + [Ch7_1_test_cookie_基礎]]
 + Ch8
-   + [Ch8_1_loadOnStartup 容器初始化Servlet]
-   + [Ch8_2_ServletInitParam 設定Servlet初始參數]
-   + [Ch8_3_ServerContext Application的域]
-   + [Ch8_4_ReceiverMsg 練習]
+   + [Ch8_1_模擬Session]
+   + [Ch8_2_HttpSession]
+   + [Ch8_3_shopping_cart作業]
 + Ch9
    + [Ch9_1_TestJsp 測試Jsp]
    + [Ch9_2_UploadImage 上傳檔案]
