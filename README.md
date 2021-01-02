@@ -21,11 +21,11 @@
    + [Ch6_2_Homework](https://github.com/xvpowerg/javaweb20201212/tree/main/20201226/Ch6_2_Homework)
    + [三大區塊可以存Attribute](https://github.com/xvpowerg/javaweb20201212/tree/main/20201226/Ch6_1_forword_page)
 + Ch7
-   + [Ch7_1_test_cookie_基礎]]
+   + [Ch7_1_test_cookie_基礎](https://github.com/xvpowerg/javaweb20201212/tree/main/20210102/Ch7_1_cookies_1)
 + Ch8
-   + [Ch8_1_模擬Session]
-   + [Ch8_2_HttpSession]
-   + [Ch8_3_shopping_cart作業]
+   + [Ch8_1_模擬Session](https://github.com/xvpowerg/javaweb20201212/tree/main/20210102/Ch8_1_cookies_2)
+   + [Ch8_2_HttpSession](https://github.com/xvpowerg/javaweb20201212/tree/main/20210102/Ch8_2_TestSession)
+   + [Ch8_3_shopping_cart作業](https://github.com/xvpowerg/javaweb20201212/tree/main/20210102/Ch8_3_shopping_cart)
 + Ch9
    + [Ch9_1_TestJsp 測試Jsp]
    + [Ch9_2_UploadImage 上傳檔案]
