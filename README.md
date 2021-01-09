@@ -27,7 +27,7 @@
    + [Ch8_2_HttpSession](https://github.com/xvpowerg/javaweb20201212/tree/main/20210102/Ch8_2_TestSession)
    + [Ch8_3_shopping_cart作業](https://github.com/xvpowerg/javaweb20201212/tree/main/20210102/Ch8_3_shopping_cart)
 + Ch9
-   + [Ch9_1_shopping_cart與測試Jsp](https://github.com/xvpowerg/javaweb20201212/tree/main/20210109/Ch9_3_shopping_cart)
+   + [Ch9_shopping_cart與測試Jsp](https://github.com/xvpowerg/javaweb20201212/tree/main/20210109/Ch9_3_shopping_cart)
 + Ch10 
    + [Ch10_ServletLivecycle](https://github.com/xvpowerg/javaweb20201212/tree/main/20210109/Ch10_1_ServletLivecycle)
 + Ch11 
