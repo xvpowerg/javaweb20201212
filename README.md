@@ -27,11 +27,9 @@
    + [Ch8_2_HttpSession](https://github.com/xvpowerg/javaweb20201212/tree/main/20210102/Ch8_2_TestSession)
    + [Ch8_3_shopping_cart作業](https://github.com/xvpowerg/javaweb20201212/tree/main/20210102/Ch8_3_shopping_cart)
 + Ch9
-   + [Ch9_1_TestJsp 測試Jsp]
-   + [Ch9_2_UploadImage 上傳檔案]
+   + [Ch9_1_shopping_cart與測試Jsp](https://github.com/xvpowerg/javaweb20201212/tree/main/20210109/Ch9_3_shopping_cart)
 + Ch10 
-   + [Ch9_2_mvc 將UploadImage改為MVC]
-   + [Ch10_AJAX 測試非同步]
+   + [Ch10_ServletLivecycle](https://github.com/xvpowerg/javaweb20201212/tree/main/20210109/Ch10_1_ServletLivecycle)
 + Ch11 
    + [Ch11_1_RquestAttrListener]
    + [Ch11_2_ServletContextLintener] 
