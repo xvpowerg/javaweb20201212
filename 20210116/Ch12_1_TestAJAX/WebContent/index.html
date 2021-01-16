@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    #msg{
+      color: brown;	
+      font-size: 50px;
+      margin-left: 50px;  
+    }	
+    
+    </style>
+    
+    <script>
+       function testAjaxBase(){
+        fetch("page1",{method:"get"}).then(resp=>{
+         return resp.text();
+        }).then(text=>{
+         document.getElementById("msg").innerText=text;          
+        }).catch(
+            error=>{console.log("error",error);}
+          );
+         
+            console.log("testAjaxBase!!!");            
+       }     
+
+      // setInterval(testAjaxBase,5000);
+      function testAjaxGet(){
+            let msgElement = document.getElementById("msg");
+            msgElement.innerText= "Wait....";
+            fetch("page2?seccond=5",{method:'get'}).then(resp=>{
+                return resp.text();
+            }).then(text=>{
+                msgElement.innerText = text;
+            }).catch( (error)=>{console.log("error:"+error)});
+      }
+      
+    	function testAjaxPost(number){
+    		//Post 傳參數到 Server 使用 new URLSearchParams  
+            const params = new URLSearchParams(`number=${number}&id =123`);
+            let msgElement =  document.getElementById("msg");
+            msgElement.innerText = "Wait....";
+            fetch("page2",{body:params,method:"post"}).
+            then(respon=>respon.text()).then(text=>{
+                msgElement.innerText = text;
+               console.log(text);
+            }).catch(error=>console.log(error));
+                		
+    	}  
+	
+    </script>    
+
+
+</head>
+<body>
+    <button type="button" onclick="testAjaxGet()">TestAjaxBase!</button>
+   <button type="button" onclick="testAjaxPost('5')">TestAjaxPost!</button>
+    <div id="msg">Empty</div>
+
+
+</body>
+</html>
