@@ -41,9 +41,5 @@
 + Ch13
    + [Ch13_TestCdi_Scope]
    + [Ch13_WebJdbc]
-+ Ch14
-   + [Ch14_JDBC_DAO.zip]
- + Ch15
-   + [Ch14_JDBC_DAO.zip 完成登入]
-   + [Ch15_Test_JAP.zip 測試JPA]
+
  
