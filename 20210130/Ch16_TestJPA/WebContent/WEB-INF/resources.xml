@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <Resource id="mysqlRes" aliases="myDataSrc" type="DataSource">
+    JdbcDriver = com.mysql.jdbc.Driver
+    JdbcUrl = jdbc:mysql://localhost:3306/db20210130jpa?serverTimezone=CST&amp;useSSL=false&amp;allowPublicKeyRetrieval=true
+    UserName = root
+    Password = 123456 
+  </Resource>  
+</resources>
